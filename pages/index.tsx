@@ -14,11 +14,12 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcummme to <a href="https://nextjs.org">Next.js!</a>
+          Just like you wished
         </h1>
 
         <p className={styles.description}>
-          Get help..testing. bykjhp editing{' '} OwO???
+          I will update my website.
+          Also for some reason my localhost:3000 does not update live D:
           <code className={styles.code}>pages/index.tsx</code>
         </p>
       </main>
